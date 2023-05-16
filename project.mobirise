@@ -1,13 +1,13 @@
 {
   "settings": {
     "name": "Site-05-05_2113",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
       "titlePreset": "Mobirise 5",
       "styling": {
-        "primaryColor": "#ffe161",
+        "primaryColor": "#000000",
         "secondaryColor": "#ff6666",
         "successColor": "#40b0bf",
         "infoColor": "#4479d9",
